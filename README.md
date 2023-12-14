@@ -1,2 +1,2 @@
-# lt-python-env-202310
+# 【LT】Python環境構築ガイド
 Lightning Talk on Python Development Environment
