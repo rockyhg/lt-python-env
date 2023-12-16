@@ -1,0 +1,8 @@
+pip
+isort
+flake8
+black
+jupyterlab
+matplotlib
+numpy
+pandas
