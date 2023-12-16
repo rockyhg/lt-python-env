@@ -6,3 +6,5 @@ jupyterlab
 matplotlib
 numpy
 pandas
+fastapi
+uvicorn
