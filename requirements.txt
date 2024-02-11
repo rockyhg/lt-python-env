@@ -4,4 +4,4 @@ matplotlib
 scikit-learn
 fastapi
 uvicorn
-ipykernel
+notebook
