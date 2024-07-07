@@ -11,20 +11,20 @@
 - Pythonのインストール
 - VS Codeのインストール
 
-## [1.　VS Codeのセットアップ](./1_vscode-tutorial.md)
+## 1.　VS Codeのセットアップ
 - 基本設定
 - Pythonプロジェクトの作成
 - ショートカットキー
 
-## [2. 環境管理ツール (venv) の導入](./2_venv.md)
+## 2. 環境管理ツール (venv) の導入
 - 仮想環境とは
 - 仮想環境の作成
 - パッケージ（ライブラリ）管理
 
-## [3. FastAPI動作確認](./3_fastapi.md)
+## 3. FastAPI動作確認
 
-## [4. まとめ](./4_final-chapter.md)
+## 4. まとめ
 
-## [おまけ・開発の進め方](./appendix.md)
+## おまけ・開発の進め方
 
 2024@rockyhg (Hiroki Haga)
