@@ -1,6 +1,6 @@
 # 環境管理ツール (venv) の導入
 
-### 1. 仮想環境とは？
+## 1. 仮想環境とは？
 
 仮想環境は、Pythonのプロジェクトごとに独立した環境を作るためのものです。これにより、プロジェクトごとに異なるバージョンのライブラリをインストールしても他のプロジェクトに影響を与えることなく作業できます。
 
@@ -11,11 +11,11 @@
 3. **再現性の確保:** 仮想環境を使うことで、他の開発者が同じ環境で作業することができ、開発環境の再現性を高めることができます。
 
 
-### 2. 仮想環境の作成
-1. VS Codeのターミナルを起動
+## 2. 仮想環境の作成
+- VS Codeのターミナルを起動
    - [表示] > [ターミナル]
    - or `Ctrl + J`
-2. 仮想環境を作成する（以下のコマンドを実行）
+- 仮想環境を作成する（以下のコマンドを実行）
    - `python -m venv <仮想環境名(自分で名付ける)>`
    - （「ワークスペースに設定しますか」というメッセージが出たら [はい] を押す）
    - 仮想環境名のフォルダ（隠しフォルダ）が作成され、Python実行環境が格納されている
@@ -25,26 +25,26 @@
 python -m venv myenv
 ```
 
-3. 仮想環境をアクティベートする
+- 仮想環境をアクティベートする
    - Windowsの場合: `myenv\Scripts\Activate`
    - Macの場合: `source myenv/bin/activate`
    - コマンドラインに `(<仮想環境名>)` が表示される
      - 例: `(myenv)`
 
-4. 仮想環境を終了する `deactivate`
+- 仮想環境を終了する `deactivate`
 
 ![image](./image/2_myenv1.png)
 
 ![image](./image/2_myenv2.png)
 
 
-### 3. パッケージ・ライブラリ管理
-#### 3.1 pipを使用したパッケージのインストール
-1. 仮想環境をアクティベートする
+## 3. パッケージ・ライブラリ管理
+### 3.1 pipを使用したパッケージのインストール
+- 仮想環境をアクティベートする
    - Windows: `myenv\Scripts\activate`
    - Mac: `source .venv/bin/activate`
 
-2. pip コマンドを実行する
+- pip コマンドを実行する
    - `pip install <パッケージ名>`
    - エラーが出る場合は、先頭に `python -m ` を付加して実行
      - `python -m pip install <パッケージ名>`
@@ -57,15 +57,15 @@ python -m pip install --upgrade pip
 pip install numpy
 ```
 
-#### 3.2 requirements.txtの作成と使用:
-`requirements.txt` ファイルの役割
-- プロジェクトが正しく動作するために必要な外部のパッケージやライブラリ（これらを依存関係と呼ぶ）の明確化
-- リストに記載された全ての依存関係を一括でインストールできる
-- 再現性の保証
-- デプロイの効率化
+### 3.2 requirements.txtの作成と使用:
+- `requirements.txt` ファイルの役割
+  - プロジェクトが正しく動作するために必要な外部のパッケージやライブラリ（これらを依存関係と呼ぶ）の明確化
+  - リストに記載された全ての依存関係を一括でインストールできる
+  - 再現性の保証
+  - デプロイの効率化
 
-1. 仮想環境をアクティベートする【実施済み】
-2. `requirements.txt` を新規作成し、必要なライブラリを記述する
+- 仮想環境をアクティベートする【実施済み】
+- `requirements.txt` を新規作成し、必要なライブラリを記述する
 
 ```
 # requirements.txt
@@ -76,9 +76,10 @@ fastapi
 uvicorn
 ```
 
-3. pip コマンドを実行する
-- `pip install -r requirements.txt`
+- pip コマンドを実行する
+  - `pip install -r requirements.txt`
 
-  ![image](./image/2_pip-install.png)
+![image](./image/2_pip-install.png)
+
 
 <br>2024@rockyhg (Hiroki Haga)

@@ -1,17 +1,17 @@
-# 準備編
+# 事前準備編
 
 - Windows PCをお使いの方が多いと思いますので、Windowsの場合のみ記載します
 - Macでもほぼ同様の手順で進められます
 
 ## 1. VS Codeインストール
 
-1. [Visual Studio Code のダウンロードページ](https://code.visualstudio.com/download) からインストーラをダウンロードします
+- [Visual Studio Code のダウンロードページ](https://code.visualstudio.com/download) からインストーラをダウンロードします
 
 ![image](./image/0_install-vscode.png)
 
-2. インストーラを起動し、インストールを行います
+- インストーラを起動し、インストールを行います
 
-3. 最低限必要な拡張機能をインストールします
+- 最低限必要な拡張機能をインストールします
    - Japanese Language Pack
    - Python
    - Pylance など
@@ -20,22 +20,23 @@
 
 ![image](./image/0_vscode-ext.png)
 
+
 ## 2. Pythonインストール
-1. [Python公式ページ](https://www.python.org/downloads/) からインストーラをダウンロードします
+- [Python公式ページ](https://www.python.org/downloads/) からインストーラをダウンロードします
 
   ![image](./image/0_install-python1.png)
 
-2. インストーラを起動します
+- インストーラを起動します
 
-3. 下図のように「`Add python.exe to PATH`」のオプションにチェックを入れ、「Install Now」をクリックします
+- 下図のように「`Add python.exe to PATH`」のオプションにチェックを入れ、「Install Now」をクリックします
 
 ![image](./image/0_install-python2.png)
 
 【重要】上記オプションをチェックをしないでインストールした場合、後でリカバリーもできますが面倒な設定が必要になります
 
-4. 設定を有効にするために、PCを再起動します
+- 設定を有効にするために、PCを再起動します
 
-5. コマンドプロンプトを起動し、下記のコマンドを実行します（コマンドプロンプトは、Windowsのスタートメニューで「cmd」と検索すると表示されます）
+- コマンドプロンプトを起動し、下記のコマンドを実行します（コマンドプロンプトは、Windowsのスタートメニューで「cmd」と検索すると表示されます）
 
 ```
 python --version
