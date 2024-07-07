@@ -12,10 +12,10 @@
 
 ## 2. Pythonインストール
 1. [Python公式ページ](https://www.python.org/downloads/) からインストーラをダウンロードします
-  ![image](./image/1_install-python1.png)
+  ![image](./image/0_install-python1.png)
 2. インストーラを起動します
 3. 下図のように「`Add python.exe to PATH`」のオプションにチェックを入れ、「Install Now」をクリックします
-  ![image](./image/1_install-python2.png)
+  ![image](./image/0_install-python2.png)
 
 > [!IMPORTANT]
 > 上記オプションをチェックをしないでインストールした場合、後でリカバリーもできますが面倒な設定が必要になります
@@ -28,7 +28,7 @@ python --version
 ```
 下図のように、Pythonのバージョンが表示されたら完了です。
 
-![image](./image/1_install-python3.png)
+![image](./image/0_install-python3.png)
 
 <br>以上で事前準備は終了です。お疲れ様でした。
 
