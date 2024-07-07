@@ -25,6 +25,4 @@
 
 ## 4. まとめ
 
-## おまけ・開発の進め方
-
-2024@rockyhg (Hiroki Haga)
+<br>2024@rockyhg (Hiroki Haga)
