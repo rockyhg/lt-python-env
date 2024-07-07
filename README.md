@@ -11,7 +11,7 @@
 - Pythonのインストール
 - VS Codeのインストール
 
-##　[1.　VS Codeのセットアップ](./1_vscode-tutorial.md)
+## [1.　VS Codeのセットアップ](./1_vscode-tutorial.md)
 - 基本設定
 - Pythonプロジェクトの作成
 - ショートカットキー
@@ -28,6 +28,3 @@
 ## [おまけ・開発の進め方](./appendix.md)
 
 2024@rockyhg (Hiroki Haga)
-
-
-[def]: ./5_appendix.md
