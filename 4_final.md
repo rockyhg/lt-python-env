@@ -32,3 +32,5 @@
 - Anaconda/Miniconda【アプリ開発ではおすすめしない】
   - Anaconda環境で`pip`を使うと両者が競合が発生する場合がある
   - デプロイ先の環境でAnacondaが利用できないことが多い
+
+<br>2024@rockyhg (Hiroki Haga)

@@ -53,4 +53,4 @@ print("Hello, World!")
 - `Ctrl + Shift + K`: 現在の行を削除
 - `Ctrl + Enter`: 現在の行の下に新しい行を挿入
 
-2024@rockyhg (Hiroki Haga)
+<br>2024@rockyhg (Hiroki Haga)
