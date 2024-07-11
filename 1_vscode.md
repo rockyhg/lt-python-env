@@ -2,6 +2,11 @@
 Visual Studio Code の最低限の使い方をマスターしましょう。
 
 ## 1. VS Codeの基本設定
+### 自動保存
+- 保存し忘れを防止
+
+![image](./image/1_auto-save.png)
+
 ### 拡張機能【再掲】
    - Japanese Language Pack
    - Python
