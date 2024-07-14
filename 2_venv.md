@@ -52,11 +52,10 @@ python -m venv myenv
      - `python -m pip install <パッケージ名>`
 
 ```shell
-# pip 自体をアップデート
-python -m pip install --upgrade pip
-
 # numpy をインストール
 pip install numpy
+# または
+python -m pip install numpy
 ```
 
 ### 3.2 requirements.txtの作成と使用:
@@ -82,6 +81,8 @@ uvicorn
   - `pip install -r requirements.txt`
 
 ![image](./image/2_pip-install.png)
+
+これでひとつのプロジェクト用の仮装環境が作成できました。
 
 <br>◀ [1. VS Codeのセットアップ](./1_vscode.md) | [3. FastAPI動作確認](./3_fastapi.md) ▶
 
