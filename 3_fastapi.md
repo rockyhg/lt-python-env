@@ -31,6 +31,11 @@ def read_root():
 
 ![image](./image/3_hello-world.png)
 
+これでFastAPIの動作確認ができました。あとは、このプロジェクトでご自分が最終課題で実現したいタスクのコードを追加していくということになります
+
+- VS Codeのターミナルで `Ctrl＋C` を押してFastAPIを終了する
+
+
 <br>◀ [2. 環境管理ツール (venv) の導入](./2_venv.md) | [4. まとめ](./4_final.md) ▶
 
 2024@rockyhg (Hiroki Haga)
