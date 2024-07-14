@@ -35,7 +35,18 @@ Visual Studio Code の最低限の使い方をマスターしましょう。
 
 ```python
 # test.py
-print("Hello, World!")
+def greet(name):
+    return f"Hello, {name}!"
+
+def add(a, b):
+    return a + b
+
+
+name = "Kikagaku"
+print(greet(name))
+
+result = add(5, 3)
+print(f"The sum is: {result}")
 ```
 
 - test.py を実行する
