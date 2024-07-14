@@ -54,9 +54,10 @@ print("Hello, World!")
 
 主なものを抜粋:
 - `Ctrl + Shift + P`: でコマンドパレットを表示
-- `Alt + ↑ / ↓`: 行の上下移動
-- `Shift + Alt + ↑ / ↓`: 現在の行をコピーして上下にペースト
 - `Ctrl + Shift + K`: 現在の行を削除
 - `Ctrl + Enter`: 現在の行の下に新しい行を挿入
+- `Ctrl + /`: コメントアウト
 
-<br>2024@rockyhg (Hiroki Haga)
+<br>◀ [0. 事前準備編](./0_prepare.md) | [2. 環境管理ツール (venv) の導入](./2_venv.md) ▶
+
+2024@rockyhg (Hiroki Haga)
