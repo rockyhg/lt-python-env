@@ -35,4 +35,6 @@
 - Pythonバージョン管理 (pyenv) 【おすすめ】
   - 複数のPythonバージョンを管理し、プロジェクトごとに異なるバージョンに切り替えることが可能
 
-<br>2024@rockyhg (Hiroki Haga)
+<br>◀ [3. FastAPI動作確認](./3_fastapi.md) | [TOP PAGE](./README.md) ▲
+
+2024@rockyhg (Hiroki Haga)

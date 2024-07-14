@@ -31,5 +31,6 @@ def read_root():
 
 ![image](./image/3_hello-world.png)
 
+<br>◀ [2. 環境管理ツール (venv) の導入](./2_venv.md) | [4. まとめ](./4_final.md) ▶
 
-<br>2024@rockyhg (Hiroki Haga)
+2024@rockyhg (Hiroki Haga)

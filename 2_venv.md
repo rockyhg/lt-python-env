@@ -83,5 +83,6 @@ uvicorn
 
 ![image](./image/2_pip-install.png)
 
+<br>◀ [1. VS Codeのセットアップ](./1_vscode.md) | [3. FastAPI動作確認](./3_fastapi.md) ▶
 
-<br>2024@rockyhg (Hiroki Haga)
+2024@rockyhg (Hiroki Haga)

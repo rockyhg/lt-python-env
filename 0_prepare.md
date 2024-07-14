@@ -48,4 +48,6 @@ python --version
 
 <br>以上で事前準備は終了です。お疲れ様でした。
 
-<br>2024@rockyhg (Hiroki Haga)
+<br>[1. VS Codeのセットアップ](./1_vscode.md) ▶
+
+2024@rockyhg (Hiroki Haga)
