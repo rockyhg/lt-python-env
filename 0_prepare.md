@@ -48,6 +48,6 @@ python --version
 
 <br>以上で事前準備は終了です。お疲れ様でした。
 
-<br>[1. VS Codeのセットアップ](./1_vscode.md) ▶
+<br>▲ [TOP PAGE](./README.md) | [1. VS Codeのセットアップ](./1_vscode.md) ▶
 
 2024@rockyhg (Hiroki Haga)
